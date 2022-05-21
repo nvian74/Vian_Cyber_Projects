@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[![Week 13_Project1 drawio](https://user-images.githubusercontent.com/105759606/169656180-c723558d-48a8-4297-97b2-b4a1348f149a.png)
+![Week 13_Project1 drawio](https://user-images.githubusercontent.com/105759606/169656180-c723558d-48a8-4297-97b2-b4a1348f149a.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
